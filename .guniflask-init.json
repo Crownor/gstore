@@ -1,0 +1,7 @@
+{
+  "application_type": "monolithic",
+  "authentication_type": null,
+  "cli_version": "0.2.0",
+  "port": 8000,
+  "project_name": "gstore"
+}
